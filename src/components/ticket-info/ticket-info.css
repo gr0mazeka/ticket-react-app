@@ -1,0 +1,70 @@
+.ticket__info {
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 10px 20px 20px;
+  border: 1px solid #b1bdcc;
+  -webkit-box-shadow: 1px 3px 7px 0 #b1bdcc;
+  box-shadow: 1px 3px 7px 0 #b1bdcc;
+  background-color: #fff;
+}
+.ticket__form-title {
+  height: 35px;
+  padding: 5px 0 15px;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 20px;
+}
+.ticket__form-title_color {
+  font-size: 15px;
+}
+.ticket__form-number {
+  display: inline-block;
+  line-height: 40px;
+  width: 190px;
+  position: relative;
+}
+.ticket__form-number-inner {
+  margin-left: 50px;
+}
+.ticket__form-price {
+  width: 340px;
+}
+.ticket__form-button,
+.ticket__form-price {
+  display: inline-block;
+}
+.ticket__form-price-value {
+  font-weight: 700;
+}
+.ticket__cl-name,
+.ticket__cl-patronymic,
+.ticket__cl-surname {
+  width: 100%;
+}
+.ticket__gender {
+  float: left;
+}
+.ticket__cl-gender,
+.ticket__gender {
+  width: 120px;
+  margin-right: 6px;
+}
+.ticket__cl-birthdate {
+  float: left;
+  width: 190px;
+  margin-right: 6px;
+}
+.ticket__cl-phone {
+  width: 316px;
+}
+.ticket__document {
+  float: left;
+  height: 44px;
+}
+.ticket__cl-document,
+.ticket__document {
+  width: 316px;
+  margin-right: 6px;
+}
+.ticket__cl-document-serial {
+  width: 316px;
+}

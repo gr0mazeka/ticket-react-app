@@ -1,0 +1,29 @@
+.route__container {
+  /*   width: 720px; 
+  margin: 0 auto;*/
+  padding: 20px;
+  border-radius: 3px;
+  background-color: hsl(207, 90%, 54%);
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 0 2px 6px 0 rgba(34, 34, 34, 0.75);
+}
+
+.route__select-label {
+  display: block;
+  color: white;
+  margin: 0 0 5px 3px;
+}
+
+.route__select-pair-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header__fb {
+  position: relative;
+  width: 49%;
+  margin: 10px 0;
+}
